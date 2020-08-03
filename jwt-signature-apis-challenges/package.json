@@ -1,0 +1,22 @@
+{
+  "name": "jwt-explotation-practices",
+  "version": "1.0.0",
+  "description": "APIs aimed to learn to exploit JWTs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OnSecRU",
+  "license": "ISC",
+  "dependencies": {
+    "@chilkat/ck-node12-linux64": "^9.50.83",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwk-to-pem": "^2.0.4",
+    "node-jose": "^1.1.4",
+    "openssl-nodejs": "^1.0.5",
+    "request": "^2.88.2"
+  }
+}
