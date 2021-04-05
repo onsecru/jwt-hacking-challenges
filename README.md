@@ -15,8 +15,8 @@ You do not need to look into the code to solve these challenges, however, you ar
 ### Instructions.
 #### Running the APIs
 1. They run on linux and you need to install `Node.js` and `openssl`
-2. Unzip the file jwt-signature-apis-challenges.zip
-3. Go into the directory created in the step 2 and install the dependencies with the command `sudo npm install`
+2. The directory `jwt-signature-apis-challenges` contains the application with the APIs for the challenges.
+3. Go into the directory `jwt-signature-apis-challenges` and install the dependencies with the command `sudo npm install`
 4. Run the application with `sudo node app.js` (it runs on port 443)
 
 #### Postman file
